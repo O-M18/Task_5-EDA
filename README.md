@@ -55,5 +55,3 @@ The analysis confirms survival was influenced by:
 
 For further improvements, predictive modeling could be added to **predict survival probabilities**!
 
-## Author
-- **Om**
