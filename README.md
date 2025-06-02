@@ -24,14 +24,10 @@ Ensure you have the following Python libraries installed:
 ```bash
 pip install pandas matplotlib seaborn
 ```
+ ## View the generated plots and insights.
+ ![output_13_0](https://github.com/user-attachments/assets/c4ca7b47-b84d-4d2e-bac0-25571035b026) 
+ ![output_26_0](https://github.com/user-attachments/assets/37094364-6838-4f6b-b323-c8629e04d018)
 
-## How to Run the Project
-1. Place `titanic.csv` in the same directory as the Python script.
-2. Run the Python script:
-   ```bash
-   python titanic_eda.py
-   ```
-3. View the generated plots and insights.
 
 ## Key Visualizations
 1. **Survival Rate by Passenger Class** → Higher survival rate in **1st class**.
