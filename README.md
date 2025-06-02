@@ -57,6 +57,3 @@ For further improvements, predictive modeling could be added to **predict surviv
 
 ## Author
 - **Om**
-```
-
----
